@@ -1,0 +1,108 @@
+
+.avion{
+	width:200px;
+	height:290px;
+	background-color: #F6F5F5;
+	float:left;
+
+}
+.avion h3,.avion p,.avion h4{
+	color: #797878;
+	text-align: center;
+	font-family: 'Maven Pro', sans-serif;
+	margin:10px;
+
+}
+
+.fa-paper-plane-o{
+	font-size: 35px;
+	margin-left: 90px;
+	color: #797878;
+}
+
+
+.ruby{
+	width:200px;
+	height:290px;
+	background-color:#F6F5F5;
+	float:left;
+	margin-left: 10px;
+
+}
+
+
+.fa-diamond{
+	margin-left:90px;
+	font-size: 35px;
+	color:#797878;
+
+}
+
+.ruby h3,.ruby p,.ruby h4{
+	color: #797878;
+	text-align: center;
+	font-family: 'Maven Pro', sans-serif;
+	margin:10px;
+}
+
+
+
+.heart{
+	width:200px;
+	height:290px;
+	background-color:#F6F5F5;
+	float:left;
+	margin-left: 10px;
+}
+
+.fa-heart-o{
+	margin-left:90px;
+	font-size: 35px;
+	color: #B4DBDF
+
+}
+.heart h3,.heart p,.heart h4{
+	color: #797878;
+	text-align: center;
+	font-family: 'Handlee', cursive;
+	margin:10px;
+}
+.cafe{
+	width:200px;
+	height:290px;
+	background-color:#F6F5F5;
+	float:left;
+	margin-left: 10px;
+
+}
+
+.fa-coffee{
+	margin-left:90px;
+	font-size: 35px;
+	color:#797878;
+}
+
+.cafe h3,.cafe p,.cafe h4{
+	color: #797878;
+	text-align: center;
+	font-family: 'Handlee', cursive;
+	margin:10px;
+	}
+.comer{
+	width:200px;
+	height:290px;
+	background-color:#F6F5F5;
+	float:left;
+	margin-left: 10px;
+}
+.fa-cutlery{
+	margin-left:90px;
+	font-size: 35px;
+	color:#797878
+}
+.comer h3,.comer p,.comer h4{
+	color: #797878;
+	text-align: center;
+	font-family: 'Maven Pro', sans-serif;
+	margin:10px;
+	}
