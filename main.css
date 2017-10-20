@@ -106,3 +106,6 @@
 	font-family: 'Maven Pro', sans-serif;
 	margin:10px;
 	}
+.avion:hover,.ruby:hover,.comer:hover,.cafe:hover,.heart:hover{
+	background-color: #ECE8E8;
+}
